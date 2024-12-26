@@ -11,6 +11,7 @@ export default function Home() {
     <Userprofile/>
     <Social_medias/>
     </div>
+    <Link/>
     </>
   )
 }
