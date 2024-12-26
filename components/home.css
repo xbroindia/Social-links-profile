@@ -1,0 +1,14 @@
+.user{
+    background-color:hsl(0, 0%, 12%);
+    max-height:57rem;
+    max-width:40rem;
+    color:hsl(0, 0%, 100%);
+    border-radius: 1rem;
+    padding:3rem;
+    padding-left: 7rem;
+    padding-right:7rem ;
+}
+.userpic{
+    border-radius: 12rem;
+    height: 10rem; 
+}

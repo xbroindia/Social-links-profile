@@ -1,0 +1,27 @@
+.link1{
+    color:hsl(0, 0%, 100%);
+    text-decoration: none;
+    background-color:  hsl(0, 0%, 20%);
+    width:30rem;
+    height: 3rem;
+    border-radius: 0.4rem;
+    text-align: center;
+    padding-top: 1rem;
+    font-size:1.5rem;
+    font-family:'Inter',sans-serif;
+    font-weight: bold;
+}
+
+.link1:hover{
+    background-color: yellow;
+    color:black
+}
+
+.social-medias{
+    display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap:4rem;
+   
+}
